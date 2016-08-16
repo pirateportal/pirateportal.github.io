@@ -55,7 +55,7 @@ div.comments>div.comment>div.com {
 }
 
 div.comments>div.comment>div.head {
-	background:#F1F2F3 url(https://torrentz2.eu/img/user_comment.png) no-repeat 3px center;
+	background:#F1F2F3 url("https://torrentz2.eu/img/user_comment.png") no-repeat 3px center;
 	border-left:solid #ACB2B9 1px;
 	color:#ACB2B9;
 	font-size:13px;
@@ -250,7 +250,7 @@ div.download>p {
 }
 
 div.error {
-	background:#FFE3D4 url(https://torrentz2.eu/img/exclamation.png) no-repeat 7px center;
+	background:#FFE3D4 url("https://torrentz2.eu/img/exclamation.png") no-repeat 7px center;
 	border:solid 1px #FF7348;
 	border-radius:5px;
 	font-size:15px;
@@ -274,7 +274,7 @@ div.files li {
 }
 
 
-div.files li.t, div.files li.o{background:url("img/folder.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);color:#6b3f2e;font-size:14px;font-weight:500;margin-left:0;margin-top:0;padding-bottom:0;padding-left:18px;padding-top:5px}
+div.files li.t, div.files li.o{background:url("https://torrentz2.eu/img/folder.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);color:#6b3f2e;font-size:14px;font-weight:500;margin-left:0;margin-top:0;padding-bottom:0;padding-left:18px;padding-top:5px}
 
 div.files ul {
 	background-color:#fff;
@@ -410,7 +410,7 @@ div.index-stats a {
 }
 
 div.info {
-	background:#D4FFD4 url(https://torrentz2.eu/img/information.png) no-repeat 7px;
+	background:#D4FFD4 url("https://torrentz2.eu/img/information.png") no-repeat 7px;
 	border:solid 1px #00B900;
 	border-radius:5px;
 	font-size:15px;
@@ -420,7 +420,7 @@ div.info {
 }
 
 div.loader {
-	background:#FFF url(https://torrentz2.eu/img/loader2.gif) no-repeat center center;
+	background:#FFF url("https://torrentz2.eu/img/loader2.gif") no-repeat center center;
 	height:100px
 }
 
@@ -655,7 +655,7 @@ div.SimpleAcceptableTextAds > dl > dd {
 }
 
 div.SimpleAcceptableTextAds > dl > dt {
-	background:transparent url(https://torrentz2.eu/img/accept.png) no-repeat left center;
+	background:transparent url("https://torrentz2.eu/img/accept.png") no-repeat left center;
 	color:#75808A;
 	display:block;
 	font-size:12px;
