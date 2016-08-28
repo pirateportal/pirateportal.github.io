@@ -225,6 +225,14 @@ div.download>dl>dt>a>span.u {
 	width:200px
 }
 
+div.download > dl > dt > a > span.u > img {
+	border: medium none;
+    height: 16px;
+    margin-left: 5px;
+    vertical-align: middle;
+    width: 16px;
+}
+
 div.download>h2 {
 	color:#E3C2B5;
 	font-size:20px;
@@ -442,7 +450,7 @@ div.recent {
 	margin:20px auto;
 	padding:10px;
 	text-align:center;
-	width:940px
+	width:90%
 }
 
 div.recent > a {
